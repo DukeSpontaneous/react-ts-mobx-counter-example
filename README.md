@@ -1,6 +1,6 @@
 # React-ts-MobX Counter
 
-## (makeAutoObservable-class-arrow)
+## (factory-makeAutoObservable-autoBind)
 
 [Редактировать на StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-zjf8ky)
 
